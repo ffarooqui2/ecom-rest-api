@@ -1,1 +1,1 @@
-# ecom-rest-api
+# E-commerce REST API in Go
